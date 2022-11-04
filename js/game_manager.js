@@ -23,7 +23,7 @@ function kcal(exp) {
   kcal[8]=320;
   kcal[16]=400;
   kcal[32]=500;
-  kcal[64]=650;
+  kcal[64]=5000;
   kcal[128]=820;
   kcal[256]=1000;
   kcal[512]=1200;
